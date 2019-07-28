@@ -35,6 +35,7 @@ public class EnemyController : MonoBehaviour
         smokeEffect.Stop();
         animator.SetTrigger("Fixed");
         broken = false;
+        GetComponent<AudioSource>().Stop();
         rigidbody2D.simulated = false;
     }
 

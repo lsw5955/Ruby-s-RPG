@@ -8,6 +8,8 @@ public class Projectile : MonoBehaviour
 
     public ParticleSystem burst;
 
+    public AudioClip audioClip;
+
     void Awake()
     {
         rigidbody2d = GetComponent<Rigidbody2D>();
