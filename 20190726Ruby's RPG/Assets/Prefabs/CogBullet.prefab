@@ -142,4 +142,3 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   burst: {fileID: 2770860936827086442, guid: 619c1aa191016d747b62b52c3a50b894, type: 3}
-  audioClip: {fileID: 8300000, guid: b2edfd40873655249ba0e01a5cf705be, type: 3}
